@@ -1,0 +1,1 @@
+ERROR_VALUE = -1.0
